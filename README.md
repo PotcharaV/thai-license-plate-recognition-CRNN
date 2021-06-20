@@ -31,8 +31,8 @@ Keras : 2.4.3
 | Model_LSTM+BN5--thai-v3.h5  | Contain Trained CRNN model |  
 
 
-Owner of original repository: https://github.com/qjadud1994/CRNN-Keras
+[Owner of original repository](https://github.com/qjadud1994/CRNN-Keras)
 
-Paper : https://arxiv.org/pdf/1507.05717.pdf
+[Original Paper](https://arxiv.org/pdf/1507.05717.pdf)
 
-## This model still need be fine-tuned with real license plate images.
+This model still need be fine-tuned with real license plate images.
