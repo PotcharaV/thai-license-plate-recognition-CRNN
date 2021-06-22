@@ -15,7 +15,7 @@
 I use Evaluate_Predict_Showcase.ipynb to evluate the model.
 
 ## File Description
-os : Ubuntu 16.04.4 LTS
+os : Windows 10
 Python : 3.7
 Tensorflow : 2.3.0
 Keras : 2.4.3
